@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Computer-NetworkingNotes/ch3/service-mode-in-data-linker.md","permalink":"/computer-networking-notes/ch3/service-mode-in-data-linker/","updated":"2025-10-18T21:58:31.252+08:00"}
+{"dg-publish":true,"dg-path":"Computer-NetworkingNotes/ch3/service-mode-in-data-linker.md","permalink":"/computer-networking-notes/ch3/service-mode-in-data-linker/","updated":"2025-10-20T10:15:49.806+08:00"}
 ---
 
 ## 服务类型
@@ -28,7 +28,7 @@
 
 + 先建立连接，帧按序发送，支持流量控制、差错控制
 
-> 全程控制，服务可靠，如HDLC
+> 也称为“面向连接的服务”，全程控制，服务可靠，如HDLC
 
 ## FAQ
 
